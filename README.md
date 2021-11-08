@@ -11,4 +11,4 @@ Task 2: (Medium)
 
 Task 3: (Hard)
 
-###### PS: Don't copy from internet sources. It can be easily caught.
+###### PS: Don't copy from internet sources. It can be easily caught. :)
