@@ -1,4 +1,4 @@
-# Task 1 
+# Task 2 
 ### Difficulty level _**Medium**_.
 
 ## Real-time Face and eye detection using OpenCV. 
