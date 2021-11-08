@@ -9,7 +9,7 @@ You are required to perform the following tasks:
    2. matplotlib
    3. pandas
    <br>
-2. Read the dataset of the company of your choice out of the given [datasets]().
+2. Read the dataset of the company of your choice out of the given [datasets](https://github.com/piyushchandra357/tj-ml-task/tree/main/Task%201/datasets).
 3. Apply linear regression over the 'Open' and 'Last' column Values of the stock data given in the dataset.
 4. Plot a standard graph using matplotlib. Use yellow color for the scatter and red color for the regression line. Make sure to label the X and Y axis according to the column names.
 <br>
