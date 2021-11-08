@@ -17,3 +17,5 @@ You are required to perform the following tasks:
 5. Plot a Cost vs Iteration Graph that shows how the cost has been minimized with the number of iterations. 
 6. Calculate decision boundary line and plot it. (This step is optional but a plus point)
 ------------------------------------------------------------------------------------
+### How to submit:
+Use Goolge Colab to write code and run every cell. The output should be present in it. Share the link of the Google Colab Notebook. Make sure you have sharing turned on.
