@@ -25,5 +25,5 @@ You are required to perform the following tasks:
 ### How to submit:
 There will be two submissions in this case:
 1. Link of the Google Colab Notebook which has your code. 
-2. A video of the face detection system. (Use OBS studio to record the screen.)
+2. A video of the face detection system. (Use [OBS studio](https://obsproject.com/) to record the screen.)
    
