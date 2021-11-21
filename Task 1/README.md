@@ -13,8 +13,8 @@ You are required to perform the following tasks:
 3. Apply linear regression over the 'Open' and 'Last' column Values of the stock data given in the dataset.
 4. Plot a standard graph using matplotlib. Use yellow color for the scatter and red color for the regression line. Make sure to label the X and Y axis according to the column names.
 <br>
-How to submit: Run all the cells in the collab notebook and the output is present. Then, submit the link of the notebook. Make sure you have enabled sharing.
+How to submit: Run all the cells in the collab notebook and make sure the output is present. Then, submit the link of the notebook. Make sure you have enabled sharing.
 
-##### PS - You are free to perform Multi-linear Regression if you wish to.
+##### PS - You are free to perform Multi-linear Regression if you wish to. Might gives an advantage.
 ------------------------------------------------------------------------------------
 
